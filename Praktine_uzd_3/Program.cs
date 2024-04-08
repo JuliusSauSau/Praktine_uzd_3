@@ -119,7 +119,7 @@ class Program
 
     static BigInteger GetPublicKey(BigInteger phi)
     {
-        BigInteger e = 65537; // Dažniausiai naudojamas viešasis eksponentės reikšmė
+        BigInteger e = 65537; 
         while (BigInteger.GreatestCommonDivisor(e, phi) != 1)
         {
             e++;
