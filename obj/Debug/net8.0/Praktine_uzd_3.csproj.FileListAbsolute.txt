@@ -1,0 +1,14 @@
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\bin\Debug\net8.0\Praktine_uzd_3.exe
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\bin\Debug\net8.0\Praktine_uzd_3.deps.json
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\bin\Debug\net8.0\Praktine_uzd_3.runtimeconfig.json
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\bin\Debug\net8.0\Praktine_uzd_3.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\bin\Debug\net8.0\Praktine_uzd_3.pdb
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.AssemblyInfoInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.AssemblyInfo.cs
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\refint\Praktine_uzd_3.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.pdb
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\Praktine_uzd_3.genruntimeconfig.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\Praktine_uzd_3\obj\Debug\net8.0\ref\Praktine_uzd_3.dll
